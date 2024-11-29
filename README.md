@@ -44,11 +44,13 @@ Help shape future alumni association initiatives.
 
 
 ## Proposed Solution / Architecture Diagram
-![Screenshot 2024-11-29 130355](https://github.com/user-attachments/assets/6d504c46-f100-4fa3-aa4d-f61716e7f336)
+![Screenshot 2024-11-29 091251](https://github.com/user-attachments/assets/04a3edfd-0dad-413d-9eda-997bf13b764d)
+
 
 
 ## Use Cases
-![image](https://github.com/user-attachments/assets/c1e643aa-ba16-48f6-a7ca-028817fd5b1b)
+![image](https://github.com/user-attachments/assets/ab620116-cc84-4d77-8681-8b660658b977)
+
 
 
 ## Technology Stack
