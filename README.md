@@ -48,6 +48,7 @@ Help shape future alumni association initiatives.
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/c1e643aa-ba16-48f6-a7ca-028817fd5b1b)
 
 
 ## Technology Stack
